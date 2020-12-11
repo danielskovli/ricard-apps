@@ -6,7 +6,7 @@ namespace InputNumbers {
 	class Program {
 		static void Main(string[] args) {
 			Console.WriteLine("Help! The Princess has been captured and we need 5 numbers to save her...");
-			Console.WriteLine("\n<Insert aschii animation of Bowser flying away>\n\n");
+			Console.WriteLine("\n<Insert ascii animation of Bowser flying away>\n\n");
 
 			var grammar = new[] {
 				"First",
